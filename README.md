@@ -1,1 +1,2 @@
 # php-html-MySQL-login-page
+I spent some time experimenting with PHP and web development when coming up with ideas for my A-Level computer science course work. One of the projects I did was this, I found the tutorial on youtube and followed it. I feel as though this project gave me a great introduction into server side work and PHP, although I can definitiely appreciate how long PHP would take to master, its a challenge that I think I would be up for in the future
